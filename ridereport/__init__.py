@@ -1,0 +1,1 @@
+# ridereport module init
